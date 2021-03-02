@@ -1,2 +1,2 @@
 # Birdsong
- A music-driven farming game about giving back
+ A farming game about making the score your own
